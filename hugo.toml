@@ -47,15 +47,15 @@ enableGitInfo = true
     url = '/archive/'
     weight = 3
 
-#[[menu.main]]
-#    name = "Projects"
-#    url = "/projects/"
-#    weight = 4
+[[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 5
 
 [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 4
+    weight = 6
 
 [markup]
     footnoteReturnLinkContents = "↩"
