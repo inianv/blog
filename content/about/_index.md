@@ -4,7 +4,7 @@ description = "a.k.a inianv"
 date = "2017-02-24T12:14:41+05:30"
 +++
 
-I’m a polygot programmer; I enjoy learning the intricacies behind a language feature — how its careful application elegantly solves complex problems.  I’m also an open-source contributor passionate about [knowledge sharing](https://stackoverflow.com/users/5291015/inian)
+I’m a polygot programmer; I enjoy learning the intricacies behind a language construct — how its careful application elegantly solves complex problems.  I’m also an open-source contributor passionate about [knowledge sharing](https://stackoverflow.com/users/5291015/inian)
 
 > I live in Vim and love the command-line.
 
