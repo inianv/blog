@@ -6,7 +6,7 @@ date = "2017-02-24T12:14:41+05:30"
 
 I’m a polygot programmer; I enjoy learning the intricacies behind a language feature — how its careful application elegantly solves complex problems.  I’m also an open-source contributor passionate about [knowledge sharing](https://stackoverflow.com/users/5291015/inian)
 
-> I live in Vim  and love the command-line.
+> I live in Vim and love the command-line.
 
 I enjoyed working on an [array of open-source projects](/projects).  Here’s [my CV]()
 
@@ -16,7 +16,9 @@ I can be reached at _inianvasanth@proton.me_
 Repertoire
 ==========
 
-**Languages**:  C, Go, Rust, Lua, Python, Perl, Shell (Bash, KSH, fish), Ansible, Terraform
+**Languages**:  C, Go, Rust, Python, Shell
+**Tools**:  Kubernetes, Docker, Podman, Ansible, Terraform
+**Cloud**: Amazon Web Services, OpenStack
 **Platforms**: Linux, macOS
 
 Work Experience (12+ years)
