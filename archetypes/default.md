@@ -1,6 +1,7 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-draft: true
+title = "{{ humanize .Name | title }}"
+description = ""
+date = {{ .Date }}
+tags = []
+draft = true
 ---
-

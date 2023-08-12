@@ -1,0 +1,14 @@
+<p class="post-date">
+    Published <time datetime="{{ .PublishDate.Format "2006-01-02" }}" itemprop="datePublished">{{ dateFormat (default "Jan 2, 2006" .Site.Params.dateFormat) .PublishDate }}</time>
+    <span>by</span>
+    <span itemscope="" itemprop="author" itemtype="https://schema.org/Person">
+        <span itemprop="name">
+            <a href="{{ .Params.profile | default .Site.Author.profile | default "#" }}" itemprop="url" rel="author">{{ .Params.author | default .Site.Author.name }}</a>
+        </span>
+    </span>
+    {{ if lt .PublishDate .Lastmod }}
+    <span class="post-update-date">
+        Updated <time datetime="{{ .PublishDate.Format "2006-01-02" }}" itemprop="datePublished">{{ dateFormat (default "Jan 2, 2006" .Site.Params.dateFormat) .Lastmod }}</time>
+    </span>
+    {{ end }}
+</p>

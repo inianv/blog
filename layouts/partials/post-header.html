@@ -1,0 +1,18 @@
+<header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ .Title }}</h1>
+    {{ if .Description }}
+        <p class="post-description" itemprop="description">{{ .Description }}</p>
+    {{ end }}
+    {{ partial "post-date.html" . }}
+    {{ if .Site.Params.readingTime }}
+    <p class="post-reading post-line">
+        <span>{{ .Site.Params.readingTimeText }} {{ .Page.ReadingTime }} min</span>
+    </p>
+    {{ end }}
+    {{ if .Params.toc }}
+    <aside>
+        <h1>Contents</h1>
+        {{.TableOfContents}}
+    </aside>
+    {{ end }}
+</header>

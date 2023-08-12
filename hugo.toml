@@ -1,7 +1,7 @@
 # use / to create a website server locally
 baseurl = "https://inianv.github.io/"
-languageCode = "en-uk"
-title = "Bits of Acumen"
+languageCode = "en-us"
+title = "Bitwise Insights"
 theme = "ghostwriter"
 copyright = "Inian Vasanth"
 googleAnalytics = ""
@@ -17,8 +17,8 @@ enableGitInfo = true
 
 [Params]
     intro = true
-    headline = "Bits of Acumen"
-    description = "Building intuition by substantiating"
+    headline = "Bitwise Insights"
+    description = "Building intuition, one byte at a time"
     email = "inianvasanth@proton.me"
     github = "https://github.com/inianv"
     linkedin = "https://www.linkedin.com/in/inian-vasanth-20806b76"

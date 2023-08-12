@@ -1,0 +1,21 @@
+{{ partial "header.html" . }}
+
+<div id="post-index" class="container" itemscope="" itemtype="https://schema.org/Blog">
+    <article class="post-container">
+        <!-- title & description -->
+        {{ partial "intro.html" . }}
+
+        <!-- intro text -->
+        {{ partial "post-content.html" . }}
+        <h1>Recent Works</h1>
+        <!-- article list -->
+        <ol class="post-list">
+            {{ $pag := .Paginate (.Site.RegularPages) }}
+            {{ range first 7 $pag.Pages.ByPublishDate.Reverse }}
+                {{ partial "post-stub.html" . }}
+            {{ end }}
+        </ol>
+    </article>
+</div>
+
+{{ partial "footer.html" . }}
