@@ -1,5 +1,5 @@
 +++
-title = "Bits of Acumen"
+title = "Bitwise Insights"
 description = "a.k.a inianv"
 date = "2023-08-06T23:45:41+05:30"
 +++

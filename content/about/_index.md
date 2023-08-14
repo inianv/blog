@@ -4,7 +4,7 @@ description = "a.k.a inianv"
 date = "2017-02-24T12:14:41+05:30"
 +++
 
-I’m a polygot programmer; I enjoy learning the intricacies behind a language feature — how its careful application elegantly solves complex problems.  I’m also an open-source contributor passionate about [knowledge sharing](https://stackoverflow.com/users/5291015/inian)
+I’m a backend programmer; I enjoy learning the intricacies behind a language feature — how its careful application elegantly solves complex problems.  I’m also an open-source contributor passionate about [knowledge sharing](https://stackoverflow.com/users/5291015/inian)
 
 > I live in Vim  and love the command-line.
 
@@ -12,19 +12,21 @@ I enjoyed working on an [array of open-source projects](/projects).  Here’s [m
 
 I can be reached at _inianvasanth@proton.me_
 
-
 Repertoire
 ==========
 
-**Languages**:  C, Go, Rust, Lua, Python, Perl, Shell (Bash, KSH, fish), Ansible, Terraform
-**Platforms**: Linux, macOS
+**Languages**: C, Go, Rust, Python, Perl, Shell (Bash, fish)  
+**Toolkit**: Kubernetes, Docker, Podman, Helm, GitHub Actions  
+**Infrastructure**: Ansible, Terraform, DataDog  
+**Platforms**: Linux, macOS   
+**Cloud**: AWS, GCP, OpenStack   
 
 Work Experience (12+ years)
 ===============
 
 * Senior Software Engineer, **ICEYE Oy** (2023 - Present)
 * Member of Technical Staff - IV, **NetApp** (2022 — 2023)
-* Senior Software Engineer II, **Viasat India** (2016 — 2022)
+* Senior Software Engineer II, **Viasat Inc** (2016 — 2022)
 * Senior Software Engineer, **Sandvine Technologies** (2015 — 2016)
 * Software Engineer I, **Alcatel Lucent** (2014 — 2015)
 * Software Engineer, **MBIT Wireless** (2011 — 2014)
