@@ -24,9 +24,10 @@ Repertoire
 Work Experience (12+ years)
 ===============
 
-* Senior Software Engineer, **ICEYE Oy** (2023 - Present)
+* Senior Software Engineer, **SingleStore Inc** (2024 - Present)
+* Senior Software Engineer, **ICEYE Oy** (2023)
 * Member of Technical Staff - IV, **NetApp** (2022 — 2023)
-* Senior Software Engineer II, **Viasat Inc** (2016 — 2022)
+* Senior Software Engineer II, **Viasat** (2016 — 2022)
 * Senior Software Engineer, **Sandvine Technologies** (2015 — 2016)
 * Software Engineer I, **Alcatel Lucent** (2014 — 2015)
 * Software Engineer, **MBIT Wireless** (2011 — 2014)
