@@ -7,9 +7,8 @@ copyright = "Inian Vasanth"
 googleAnalytics = ""
 enableGitInfo = true
 
-privacy:
-  disqus:
-    disable: true
+[[privacy.disqus]]
+    disable = true
 
 [[Params.Author]]
     name = "Inian Vasanth"
