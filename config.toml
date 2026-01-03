@@ -7,6 +7,10 @@ copyright = "Inian Vasanth"
 googleAnalytics = ""
 enableGitInfo = true
 
+privacy:
+  disqus:
+    disable: true
+
 [[Params.Author]]
     name = "Inian Vasanth"
     profile = "https://inianv.github.io/about/"
