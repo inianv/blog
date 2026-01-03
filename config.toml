@@ -5,10 +5,9 @@ title = "Bitwise Insights"
 theme = "ghostwriter"
 copyright = "Inian Vasanth"
 googleAnalytics = ""
-paginate =  7
 enableGitInfo = true
 
-[Author]
+[[Params.Author]]
     name = "Inian Vasanth"
     profile = "https://inianv.github.io/about/"
 
@@ -68,6 +67,9 @@ enableGitInfo = true
     startLevel = 1
     endLevel = 2
     ordered = true
+
+[pagination]
+    pagerSize = 7
 
 # “date” usually means (article’s file) creation date i.e. when the idea was
 # first convinced, “lastmod” almost always comes from Git, set “pushlishDate”
