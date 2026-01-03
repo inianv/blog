@@ -20,5 +20,5 @@ jobs:
             --url https://api.github.com/repos/inianv/inianv.github.io/actions/workflows/generate.yml/dispatches \
             --header "Accept: application/vnd.github.v3+json" \
             --header "Authorization: Bearer ${{ secrets.BLOG_GENERATE_SECRET }}" \
-            --data '{"ref":"main", "inputs": { "hugoVersion":"0.117.0" }}' \
+            --data '{"ref":"main", "inputs": { "hugoVersion":"0.154.2" }}' \
             --fail
