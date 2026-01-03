@@ -44,7 +44,7 @@ Education
 Web Presence
 ============
 
-* [StackOverflow](https://stackoverflow.com/users/5291015/inian): Active member with over 75k reputation and a Gold badge in Linux
+* [StackOverflow](https://stackoverflow.com/users/5291015/inian): Active member with over 85k reputation and a Gold badge in Linux
 _Top Tags_: Bash, Linux, jq, Go
 * [GitHub](https://github.com/inianv)
 * Career
